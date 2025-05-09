@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Transaction Reconciliation Visualization</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div id="chart"></div>
+    <script>
+        const data = [
+            {
+                "marker": {"color": ["#1f77b4", "#ff7f0e"]},
+                "name": "CSV",
+                "x": ["Sales", "Refunds"],
+                "y": [213637.28, 340.96],
+                "type": "bar"
+            },
+            {
+                "marker": {"color": ["#1f77b4", "#ff7f0e"]},
+                "name": "TXT",
+                "opacity": 0.7,
+                "x": ["Sales", "Refunds"],
+                "y": [213637.28, 340.96],
+                "type": "bar"
+            }
+        ];
+
+        const layout = {
+            "title": {"text": "Transaction Comparison: CSV vs TXT"},
+            "barmode": "group",
+            "yaxis": {"title": {"text": "Amount ($)"}},
+            "template": "plotly_white"
+        };
+
+        Plotly.newPlot('chart', data, layout);
+    </script>
+</body>
+</html>

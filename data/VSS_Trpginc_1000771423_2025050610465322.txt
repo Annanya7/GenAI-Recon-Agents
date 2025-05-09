@@ -1,0 +1,629 @@
+REP0047  004694360000001REPORT ID:  VSS-110                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00469436000000 REPORTING FOR:      1000771423 SUNWEST PX                INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00469436000000 ROLLUP TO:          1000582411 MARQETA                      SETTLEMENT SUMMARY REPORT                         REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00469436000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  004694360000000SETTLEMENT CURRENCY:  USD                                                                                                                             02025050610211322    
+REP0047  004694360000000FUNDS TRANSFER AMOUNT:             210,233.40DB                                                                                                       02025050610211322    
+REP0047  00469436000000-                                                                      CREDIT                     DEBIT                     TOTAL                      02025050610211322    
+REP0047  00469436000000                                              COUNT                    AMOUNT                    AMOUNT                    AMOUNT                      02025050610211322    
+REP0047  004694360000000INTERCHANGE VALUE                                                                                                                                     02025050610211322    
+REP0047  004694360000000   TOTAL ACQUIRER                                0                      0.00                      0.00                      0.00                      02025050610211322    
+REP0047  00469436000000    TOTAL ISSUER                                222                    340.96                213,637.28                213,296.32DB                    02025050610211322    
+REP0047  00469436000000    TOTAL OTHER                                   0                      0.00                      0.00                      0.00                      02025050610211322    
+REP0047  004694360000000   TOTAL INTERCHANGE VALUE                     222                    340.96                213,637.28                213,296.32DB                    02025050610211322    
+REP0047  004694360000000REIMBURSEMENT FEES                                                                                                                                    02025050610211322    
+REP0047  004694360000000   TOTAL ACQUIRER                                                       0.00                      0.00                      0.00                      02025050610211322    
+REP0047  00469436000000    TOTAL ISSUER                                                     3,077.57                      7.94                  3,069.63CR                    02025050610211322    
+REP0047  00469436000000    TOTAL OTHER                                                          0.00                      0.00                      0.00                      02025050610211322    
+REP0047  004694360000000   TOTAL REIMBURSEMENT FEES                                         3,077.57                      7.94                  3,069.63CR                    02025050610211322    
+REP0047  004694360000000VISA CHARGES                                                                                                                                          02025050610211322    
+REP0047  004694360000000   TOTAL ACQUIRER                                                       0.00                      0.00                      0.00                      02025050610211322    
+REP0047  00469436000000    TOTAL ISSUER                                                         0.00                      6.71                      6.71DB                    02025050610211322    
+REP0047  00469436000000    TOTAL OTHER                                                          0.00                      0.00                      0.00                      02025050610211322    
+REP0047  004694360000000   TOTAL VISA CHARGES                                                   0.00                      6.71                      6.71DB                    02025050610211322    
+REP0047  004694360000000TOTAL                                                                                                                                                 02025050610211322    
+REP0047  004694360000000   TOTAL ACQUIRER                                                       0.00                      0.00                      0.00                      02025050610211322    
+REP0047  00469436000000    TOTAL ISSUER                                                     3,418.53                213,651.93                210,233.40DB                    02025050610211322    
+REP0047  00469436000000    TOTAL OTHER                                                          0.00                      0.00                      0.00                      02025050610211322    
+REP0047  004694360000000   NET SETTLEMENT AMOUNT                                            3,418.53                213,651.93                210,233.40DB                    02025050610211322    
+REP0047  00469436000000-                                                  *** END OF VSS-110 REPORT ***                                                                       02025050610211322    
+REP0047  004694360000001REPORT ID:  VSS-115                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00469436000000 REPORTING FOR:      1000771423 SUNWEST PX                INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00469436000000 ROLLUP TO:          1000582411 MARQETA                      SRE SETTLEMENT RECAP REPORT                       REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00469436000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  004694360000000SETTLEMENT CURRENCY:  USD                                                                                                                             02025050610211322    
+REP0047  004694360000000                      --------------CREDITS------------- ------------------DEBITS---------- ------------------TOTAL---------------                    02025050610211322    
+REP0047  00469436000000                                 COUNT             AMOUNT           COUNT             AMOUNT           COUNT               AMOUNT                      02025050610211322    
+REP0047  004694360000000ACQUIRER TRANSACTIONS                                                                                                                                 02025050610211322    
+REP0047  004694360000000TOTAL INTERCHANGE                                   0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  00469436000000 REIMBURSEMENT FEES                                  0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  00469436000000 VISA CHARGES                                        0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  004694360000000TOTAL ACQUIRER                                      0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  004694360000000ISSUER TRANSACTIONS                                                                                                                                   02025050610211322    
+REP0047  004694360000000PURCHASE                                            0.00             219         213,637.28             219           213,637.28DB                    02025050610211322    
+REP0047  00469436000000 MERCHANDISE CREDIT                  3             340.96                               0.00               3               340.96CR                    02025050610211322    
+REP0047  004694360000000TOTAL INTERCHANGE                   3             340.96             219         213,637.28             222           213,296.32DB                    02025050610211322    
+REP0047  00469436000000 REIMBURSEMENT FEES                              3,077.57                               7.94                             3,069.63CR                    02025050610211322    
+REP0047  00469436000000 VISA CHARGES                                        0.00                               6.71                                 6.71DB                    02025050610211322    
+REP0047  004694360000000TOTAL ISSUER                        3           3,418.53             219         213,651.93             222           210,233.40DB                    02025050610211322    
+REP0047  004694360000000OTHER TRANSACTIONS                                                                                                                                    02025050610211322    
+REP0047  004694360000000TOTAL INTERCHANGE                                   0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  00469436000000 REIMBURSEMENT FEES                                  0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  00469436000000 VISA CHARGES                                        0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  004694360000000TOTAL OTHER                                         0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  004694360000000TOTAL                               3           3,418.53             219         213,651.93             222           210,233.40DB                    02025050610211322    
+REP0047  004694360000000FINAL SETTLEMENT NET AMOUNT                                                                                           210,233.40DB                    02025050610211322    
+REP0047  00469436000000-                                                  *** END OF VSS-115 REPORT ***                                                                       02025050610211322    
+REP0047  004694360000001REPORT ID:  VSS-116                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00469436000000 REPORTING FOR:      1000771423 SUNWEST PX                INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00469436000000 ROLLUP TO:          1000582411 MARQETA                      SRE SETTLEMENT RECAP REPORT                       REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00469436000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  004694360000000SETTLEMENT CURRENCY:  USD                                                                                                                             02025050610211322    
+REP0047  004694360000000                      --------------CREDITS------------- ------------------DEBITS---------- ------------------TOTAL---------------                    02025050610211322    
+REP0047  00469436000000                                 COUNT             AMOUNT           COUNT             AMOUNT           COUNT               AMOUNT                      02025050610211322    
+REP0047  004694360000000ACQUIRER TRANSACTIONS                                                                                                                                 02025050610211322    
+REP0047  004694360000000TOTAL INTERCHANGE                                   0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  004694360000000REIMBURSEMENT FEES                                                                                                                                    02025050610211322    
+REP0047  00469436000000  TOTAL                                              0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  00469436000000 VISA CHARGES                                        0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  004694360000000TOTAL ACQUIRER                                      0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  004694360000000ISSUER TRANSACTIONS                                                                                                                                   02025050610211322    
+REP0047  004694360000000PURCHASE                                            0.00             219         213,637.28             219           213,637.28DB                    02025050610211322    
+REP0047  00469436000000 MERCHANDISE CREDIT                  3             340.96                               0.00               3               340.96CR                    02025050610211322    
+REP0047  004694360000000TOTAL INTERCHANGE                   3             340.96             219         213,637.28             222           213,296.32DB                    02025050610211322    
+REP0047  004694360000000REIMBURSEMENT FEES                                                                                                                                    02025050610211322    
+REP0047  00469436000000  VISA INTERNATIONAL                                13.42                               0.00                                13.42CR                    02025050610211322    
+REP0047  00469436000000  VISA U.S.A.                                    3,064.15                               7.94                             3,056.21CR                    02025050610211322    
+REP0047  00469436000000  TOTAL                                          3,077.57                               7.94                             3,069.63CR                    02025050610211322    
+REP0047  00469436000000 VISA CHARGES                                        0.00                               6.71                                 6.71DB                    02025050610211322    
+REP0047  004694360000000TOTAL ISSUER                        3           3,418.53             219         213,651.93             222           210,233.40DB                    02025050610211322    
+REP0047  004694360000000OTHER TRANSACTIONS                                                                                                                                    02025050610211322    
+REP0047  004694360000000TOTAL INTERCHANGE                                   0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  004694360000000REIMBURSEMENT FEES                                                                                                                                    02025050610211322    
+REP0047  00469436000000  TOTAL                                              0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  00469436000000 VISA CHARGES                                        0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  004694360000000TOTAL OTHER                                         0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  004694360000000TOTAL                               3           3,418.53             219         213,651.93             222           210,233.40DB                    02025050610211322    
+REP0047  004694360000000FINAL SETTLEMENT NET AMOUNT                                                                                           210,233.40DB                    02025050610211322    
+REP0047  00469436000000-                                                  *** END OF VSS-116 REPORT ***                                                                       02025050610211322    
+REP0047  004694360000001REPORT ID:  VSS-120                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00469436000000 REPORTING FOR:      1000771423 SUNWEST PX                 INTERNATIONAL SETTLEMENT SERVICE                    PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00469436000000 ROLLUP TO:          1000582411 MARQETA                        INTERCHANGE VALUE REPORT                        REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00469436000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  00469436000000-SETTLEMENT CURRENCY:  USD                                                                                                                             02025050610211322    
+REP0047  00469436000000 CLEARING CURRENCY:    USD                                                                                                                             02025050610211322    
+REP0047  00469436000000-                                         RATE               COUNT               CLEARING          INTERCHANGE          INTERCHANGE                    02025050610211322    
+REP0047  00469436000000                                         TABLE                                    AMOUNT              VALUE                VALUE                       02025050610211322    
+REP0047  00469436000000                                            ID                                                       CREDITS               DEBITS                      02025050610211322    
+REP0047  00469436000000-ISSUER TRANSACTIONS                                                                                                                                   02025050610211322    
+REP0047  00469436000000-  PURCHASE                                                                                                                                            02025050610211322    
+REP0047  00469436000000    ORIGINAL SALE                                              219           213,637.28DB                                213,637.28                    02025050610211322    
+REP0047  00469436000000                                                                                                                                                       02025050610211322    
+REP0047  00469436000000   TOTAL PURCHASE                                              219           213,637.28DB                                213,637.28                    02025050610211322    
+REP0047  00469436000000   NET   PURCHASE                                                                                                        213,637.28                    02025050610211322    
+REP0047  00469436000000-  MERCHANDISE CREDIT                                                                                                                                  02025050610211322    
+REP0047  00469436000000    ORIGINAL                                                     3               340.96CR               340.96                                         02025050610211322    
+REP0047  00469436000000                                                                                                                                                       02025050610211322    
+REP0047  00469436000000   TOTAL MERCHANDISE CREDIT                                      3               340.96CR               340.96                                         02025050610211322    
+REP0047  00469436000000   NET   MERCHANDISE CREDIT                                                                             340.96                                         02025050610211322    
+REP0047  00469436000000-TOTAL ISSUER INTERCHANGE                                      222           213,296.32DB               340.96           213,637.28                    02025050610211322    
+REP0047  00469436000000 NET   ISSUER INTERCHANGE                                                                                                213,296.32                    02025050610211322    
+REP0047  00469436000000-                                                  ***  END OF VSS-120 REPORT  ***                                                                     02025050610211322    
+REP0047  004694360000001REPORT ID:  VSS-130                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00469436000000 REPORTING FOR:      1000771423 SUNWEST PX                INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00469436000000 ROLLUP TO:          1000582411 MARQETA                       REIMBURSEMENT FEES REPORT                        REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00469436000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  004694360000000SETTLEMENT CURRENCY:  USD                                                                                                                             02025050610211322    
+REP0047  00469436000000                                                                                                REIMBURSEMENT         REIMBURSEMENT                    02025050610211322    
+REP0047  00469436000000                                                        COUNT              INTERCHANGE               FEE                   FEE                         02025050610211322    
+REP0047  00469436000000                                                                              AMOUNT               CREDITS                DEBITS                       02025050610211322    
+REP0047  00469436000000 ISSUER TRANSACTIONS                                                                                                                                   02025050610211322    
+REP0047  004694360000000   PURCHASE                                                                                                                                           02025050610211322    
+REP0047  00469436000000       ORIGINAL SALE                                                                                                                                   02025050610211322    
+REP0047  00469436000000          VISA INTERNATIONAL                                                                                                                           02025050610211322    
+REP0047  00469436000000             E.U. - U.S.A.                                                                                                                             02025050610211322    
+REP0047  00469436000000                COMCL-CORP                                  7                 554.76DB                  11.10                                          02025050610211322    
+REP0047  00469436000000                CORP ALT                                    4                  99.93DB                   2.00                                          02025050610211322    
+REP0047  00469436000000                CORP DGD                                    1                  15.71DB                   0.32                                          02025050610211322    
+REP0047  00469436000000             TOTAL E.U. - U.S.A.                                                                        13.42                                          02025050610211322    
+REP0047  004694360000000         VISA U.S.A.                                                                                                                                  02025050610211322    
+REP0047  00469436000000             U.S.A. - U.S.A.                                                                                                                           02025050610211322    
+REP0047  00469436000000                NON QUAL CORP CR                            3                 702.17DB                  21.01                                          02025050610211322    
+REP0047  00469436000000                US COMM FUEL L2                             2                 121.88DB                   2.88                                          02025050610211322    
+REP0047  00469436000000                US COMM PRD LT                              1               8,905.00DB                 164.12                                          02025050610211322    
+REP0047  00469436000000                US CORP LVL2                               19              15,900.79DB                 399.42                                          02025050610211322    
+REP0047  00469436000000                US CORP PROD 1                             57              15,037.84DB                 411.72                                          02025050610211322    
+REP0047  00469436000000                US CORP PROD 2                             14                 544.42DB                  15.01                                          02025050610211322    
+REP0047  00469436000000                US CORP PROD 3                             41              12,087.41DB                 233.76                                          02025050610211322    
+REP0047  00469436000000                US CORP TVL SVC                            47              13,445.52DB                 361.01                                          02025050610211322    
+REP0047  00469436000000                VISA PART PRGM                             23             146,221.85DB               1,455.22                                          02025050610211322    
+REP0047  00469436000000             TOTAL U.S.A. - U.S.A.                                                                   3,064.15                                          02025050610211322    
+REP0047  004694360000000      TOTAL ORIGINAL SALE                                                                           3,077.57                                          02025050610211322    
+REP0047  004694360000000   TOTAL PURCHASE                                        219             213,637.28DB               3,077.57                                          02025050610211322    
+REP0047  00469436000000    NET   PURCHASE                                                                                   3,077.57                                          02025050610211322    
+REP0047  004694360000000   MERCHANDISE CREDIT                                                                                                                                 02025050610211322    
+REP0047  00469436000000       ORIGINAL                                                                                                                                        02025050610211322    
+REP0047  00469436000000          VISA U.S.A.                                                                                                                                  02025050610211322    
+REP0047  00469436000000             U.S.A. - U.S.A.                                                                                                                           02025050610211322    
+REP0047  00469436000000                US CRDT VCR-COMM                            1                  12.00CR                                         0.28                    02025050610211322    
+REP0047  00469436000000                US CRDT VCR-PT                              2                 328.96CR                                         7.66                    02025050610211322    
+REP0047  00469436000000             TOTAL U.S.A. - U.S.A.                                                                                             7.94                    02025050610211322    
+REP0047  004694360000000   TOTAL MERCHANDISE CREDIT                                3                 340.96CR                                         7.94                    02025050610211322    
+REP0047  00469436000000    NET   MERCHANDISE CREDIT                                                                                                   7.94                    02025050610211322    
+REP0047  004694360000000TOTAL ISSUER REIMB FEES                                                                             3,077.57                  7.94                    02025050610211322    
+REP0047  00469436000000 NET   ISSUER REIMB FEES                                                                             3,069.63                                          02025050610211322    
+REP0047  00469436000000-                                                   *** END OF VSS-130 REPORT ***                                                                      02025050610211322    
+REP0047  004694360000001REPORT ID:  VSS-140                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00469436000000 REPORTING FOR:      1000771423 SUNWEST PX                INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00469436000000 ROLLUP TO:          1000582411 MARQETA                         VISA CHARGES REPORT                            REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00469436000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  004694360000000SETTLEMENT CURRENCY:  USD                                                                                                                             02025050610211322    
+REP0047  00469436000000                                                             COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES                    02025050610211322    
+REP0047  00469436000000                                                                                AMOUNT              CREDITS               DEBITS                       02025050610211322    
+REP0047  004694360000000ISSUER TRANSACTIONS                                                                                                                                   02025050610211322    
+REP0047  004694360000000  INTERNATIONAL SERVICE ASSESSMENT                                                                                                                    02025050610211322    
+REP0047  004694360000000    PURCHASE                                                                                                                                          02025050610211322    
+REP0047  00469436000000       ORIGINAL SALE                                                                                                                                   02025050610211322    
+REP0047  00469436000000         VISA INTERNATIONAL                                                                                                                            02025050610211322    
+REP0047  00469436000000            E.U. - U.S.A.                                       11               274.28DB                                      2.75                    02025050610211322    
+REP0047  004694360000000      TOTAL PURCHASE                                           11               274.28DB                                      2.75                    02025050610211322    
+REP0047  00469436000000       NET   PURCHASE                                                                                                          2.75                    02025050610211322    
+REP0047  004694360000000   TOTAL INTERNATIONAL SERVICE ASSESSMENT                      11               274.28DB                                      2.75                    02025050610211322    
+REP0047  00469436000000    NET   INTERNATIONAL SERVICE ASSESSMENT                                                                                     2.75                    02025050610211322    
+REP0047  004694360000000  ISSUER ISA CHARGE-SINGLE CURRENCY                                                                                                                   02025050610211322    
+REP0047  00469436000000     PURCHASE                                                                                                                                          02025050610211322    
+REP0047  00469436000000       ORIGINAL SALE                                                                                                                                   02025050610211322    
+REP0047  00469436000000         VISA INTERNATIONAL                                                                                                                            02025050610211322    
+REP0047  00469436000000            E.U. - U.S.A.                                        1               396.12DB                                      3.96                    02025050610211322    
+REP0047  004694360000000      TOTAL PURCHASE                                            1               396.12DB                                      3.96                    02025050610211322    
+REP0047  00469436000000       NET   PURCHASE                                                                                                          3.96                    02025050610211322    
+REP0047  004694360000000   TOTAL ISSUER ISA CHARGE-SINGLE CURRENCY                      1               396.12DB                                      3.96                    02025050610211322    
+REP0047  00469436000000    NET   ISSUER ISA CHARGE-SINGLE CURRENCY                                                                                    3.96                    02025050610211322    
+REP0047  004694360000000TOTAL ISSUER CHARGES                                                                                                          6.71                    02025050610211322    
+REP0047  00469436000000 NET   ISSUER CHARGES                                                                                                          6.71                    02025050610211322    
+REP0047  00469436000000-                                                   *** END OF VSS-140 REPORT ***                                                                      02025050610211322    
+REP0047  004694360000001REPORT ID:  VSS-215                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00469436000000 REPORTING FOR:      1000771423 SUNWEST PX                INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00469436000000 ROLLUP TO:          1000582411 MARQETA               INTERNATIONAL SERVICE ASSESSMENT REPORT                  REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00469436000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  004694360000000SETTLEMENT CURRENCY:  USD                                                                                                                             02025050610211322    
+REP0047  00469436000000 CLEARING CURRENCY:  USD                                                                                                                               02025050610211322    
+REP0047  004694360000000                            ***********SETTLEMENT CURRENCY*********** *********************CLEARING CURRENCY**********************                    02025050610211322    
+REP0047  00469436000000                                      INTERCHANGE        INTL SERVICE           INTERCHANGE        INTL SERVICE         OPT ISA                        02025050610211322    
+REP0047  00469436000000                                        AMOUNT            ASSESSMENT              AMOUNT            ASSESSMENT            FEE                          02025050610211322    
+REP0047  004694360000000ISSUER TRANSACTIONS                                                                                                                                   02025050610211322    
+REP0047  004694360000000PURCHASE                                                                                                                                              02025050610211322    
+REP0047  00469436000000  ORIGINAL SALE                                                                                                                                        02025050610211322    
+REP0047  00469436000000   VISA INTERNATIONAL                      274.28DB             2.75DB               274.28DB             2.75DB             0.00                      02025050610211322    
+REP0047  004694360000000TOTAL PURCHASE                                                                                                                                        02025050610211322    
+REP0047  00469436000000                                           274.28DB             2.75DB               274.28DB             2.75DB             0.00                      02025050610211322    
+REP0047  00469436000000-TOTAL INTL SERVICE ASSESSMENT                                                                                                                         02025050610211322    
+REP0047  00469436000000                                           274.28DB             2.75DB               274.28DB             2.75DB             0.00                      02025050610211322    
+REP0047  00469436000000-                                                   *** END OF VSS-215 REPORT ***                                                                      02025050610211322    
+REP0047  004694360000001REPORT ID:  VSS-640                                         VISANET SETTLEMENT SERVICE                        PAGE:             1                     02025050610211322    
+REP0047  00469436000000 REPORTING FOR:      1000771423 SUNWEST PX                INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:  06MAY25                     02025050610211322    
+REP0047  00469436000000 ROLLUP TO:          1000582411 MARQETA                      PENDING VISA CHARGES REPORT                       REPORT DATE:06MAY25                     02025050610211322    
+REP0047  00469436000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  004694360000000SETTLEMENT CURRENCY:  USD       PROCESSING                 COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES                     02025050610211322    
+REP0047  00469436000000                                    DATE                                       AMOUNT              CREDITS               DEBITS                        02025050610211322    
+REP0047  00469436000000-                                              *** NO DATA FOR THIS REPORT ***                                                                         02025050610211322    
+REP0047  004694360000001REPORT ID:  VSS-950                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00469436000000 REPORTING FOR:      1000771423 SUNWEST PX                 SERVICE INTERNATIONAL SETTLEMENT                    PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00469436000000 ROLLUP TO:          1000582411 MARQETA                            NO DATA REPORT                              REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00469436000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  004694360000000REPORT                                                                                                                                                02025050610211322    
+REP0047  00469436000000 VSS-111                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00469436000000 VSS-210                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00469436000000 VSS-230                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00469436000000-                                                  *** END OF VSS-950 REPORT ***                                                                       02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-110                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771424 707918INTBII              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                   SETTLEMENT SUMMARY REPORT                         REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  007079180000000SETTLEMENT CURRENCY:  USD                                                                                                                             02025050610211322    
+REP0047  00707918000000-                                                                      CREDIT                     DEBIT                     TOTAL                      02025050610211322    
+REP0047  00707918000000                                              COUNT                    AMOUNT                    AMOUNT                    AMOUNT                      02025050610211322    
+REP0047  007079180000000INTERCHANGE VALUE                                                                                                                                     02025050610211322    
+REP0047  007079180000000   TOTAL ACQUIRER                                0                      0.00                      0.00                      0.00                      02025050610211322    
+REP0047  00707918000000    TOTAL ISSUER                                222                    340.96                213,637.28                213,296.32DB                    02025050610211322    
+REP0047  00707918000000    TOTAL OTHER                                   0                      0.00                      0.00                      0.00                      02025050610211322    
+REP0047  007079180000000   TOTAL INTERCHANGE VALUE                     222                    340.96                213,637.28                213,296.32DB                    02025050610211322    
+REP0047  007079180000000REIMBURSEMENT FEES                                                                                                                                    02025050610211322    
+REP0047  007079180000000   TOTAL ACQUIRER                                                       0.00                      0.00                      0.00                      02025050610211322    
+REP0047  00707918000000    TOTAL ISSUER                                                     3,077.57                      7.94                  3,069.63CR                    02025050610211322    
+REP0047  00707918000000    TOTAL OTHER                                                          0.00                      0.00                      0.00                      02025050610211322    
+REP0047  007079180000000   TOTAL REIMBURSEMENT FEES                                         3,077.57                      7.94                  3,069.63CR                    02025050610211322    
+REP0047  007079180000000VISA CHARGES                                                                                                                                          02025050610211322    
+REP0047  007079180000000   TOTAL ACQUIRER                                                       0.00                      0.00                      0.00                      02025050610211322    
+REP0047  00707918000000    TOTAL ISSUER                                                         0.00                      6.71                      6.71DB                    02025050610211322    
+REP0047  00707918000000    TOTAL OTHER                                                          0.00                      0.00                      0.00                      02025050610211322    
+REP0047  007079180000000   TOTAL VISA CHARGES                                                   0.00                      6.71                      6.71DB                    02025050610211322    
+REP0047  007079180000000TOTAL                                                                                                                                                 02025050610211322    
+REP0047  007079180000000   TOTAL ACQUIRER                                                       0.00                      0.00                      0.00                      02025050610211322    
+REP0047  00707918000000    TOTAL ISSUER                                                     3,418.53                213,651.93                210,233.40DB                    02025050610211322    
+REP0047  00707918000000    TOTAL OTHER                                                          0.00                      0.00                      0.00                      02025050610211322    
+REP0047  007079180000000   NET SETTLEMENT AMOUNT                                            3,418.53                213,651.93                210,233.40DB                    02025050610211322    
+REP0047  00707918000000-                                                  *** END OF VSS-110 REPORT ***                                                                       02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-115                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771424 707918INTBII              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                   SRE SETTLEMENT RECAP REPORT                       REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  007079180000000SETTLEMENT CURRENCY:  USD                                                                                                                             02025050610211322    
+REP0047  007079180000000                      --------------CREDITS------------- ------------------DEBITS---------- ------------------TOTAL---------------                    02025050610211322    
+REP0047  00707918000000                                 COUNT             AMOUNT           COUNT             AMOUNT           COUNT               AMOUNT                      02025050610211322    
+REP0047  007079180000000ACQUIRER TRANSACTIONS                                                                                                                                 02025050610211322    
+REP0047  007079180000000TOTAL INTERCHANGE                                   0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  00707918000000 REIMBURSEMENT FEES                                  0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  00707918000000 VISA CHARGES                                        0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  007079180000000TOTAL ACQUIRER                                      0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  007079180000000ISSUER TRANSACTIONS                                                                                                                                   02025050610211322    
+REP0047  007079180000000PURCHASE                                            0.00             219         213,637.28             219           213,637.28DB                    02025050610211322    
+REP0047  00707918000000 MERCHANDISE CREDIT                  3             340.96                               0.00               3               340.96CR                    02025050610211322    
+REP0047  007079180000000TOTAL INTERCHANGE                   3             340.96             219         213,637.28             222           213,296.32DB                    02025050610211322    
+REP0047  00707918000000 REIMBURSEMENT FEES                              3,077.57                               7.94                             3,069.63CR                    02025050610211322    
+REP0047  00707918000000 VISA CHARGES                                        0.00                               6.71                                 6.71DB                    02025050610211322    
+REP0047  007079180000000TOTAL ISSUER                        3           3,418.53             219         213,651.93             222           210,233.40DB                    02025050610211322    
+REP0047  007079180000000OTHER TRANSACTIONS                                                                                                                                    02025050610211322    
+REP0047  007079180000000TOTAL INTERCHANGE                                   0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  00707918000000 REIMBURSEMENT FEES                                  0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  00707918000000 VISA CHARGES                                        0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  007079180000000TOTAL OTHER                                         0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  007079180000000TOTAL                               3           3,418.53             219         213,651.93             222           210,233.40DB                    02025050610211322    
+REP0047  007079180000000FINAL SETTLEMENT NET AMOUNT                                                                                           210,233.40DB                    02025050610211322    
+REP0047  00707918000000-                                                  *** END OF VSS-115 REPORT ***                                                                       02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-116                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771424 707918INTBII              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                   SRE SETTLEMENT RECAP REPORT                       REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  007079180000000SETTLEMENT CURRENCY:  USD                                                                                                                             02025050610211322    
+REP0047  007079180000000                      --------------CREDITS------------- ------------------DEBITS---------- ------------------TOTAL---------------                    02025050610211322    
+REP0047  00707918000000                                 COUNT             AMOUNT           COUNT             AMOUNT           COUNT               AMOUNT                      02025050610211322    
+REP0047  007079180000000ACQUIRER TRANSACTIONS                                                                                                                                 02025050610211322    
+REP0047  007079180000000TOTAL INTERCHANGE                                   0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  007079180000000REIMBURSEMENT FEES                                                                                                                                    02025050610211322    
+REP0047  00707918000000  TOTAL                                              0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  00707918000000 VISA CHARGES                                        0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  007079180000000TOTAL ACQUIRER                                      0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  007079180000000ISSUER TRANSACTIONS                                                                                                                                   02025050610211322    
+REP0047  007079180000000PURCHASE                                            0.00             219         213,637.28             219           213,637.28DB                    02025050610211322    
+REP0047  00707918000000 MERCHANDISE CREDIT                  3             340.96                               0.00               3               340.96CR                    02025050610211322    
+REP0047  007079180000000TOTAL INTERCHANGE                   3             340.96             219         213,637.28             222           213,296.32DB                    02025050610211322    
+REP0047  007079180000000REIMBURSEMENT FEES                                                                                                                                    02025050610211322    
+REP0047  00707918000000  VISA INTERNATIONAL                                13.42                               0.00                                13.42CR                    02025050610211322    
+REP0047  00707918000000  VISA U.S.A.                                    3,064.15                               7.94                             3,056.21CR                    02025050610211322    
+REP0047  00707918000000  TOTAL                                          3,077.57                               7.94                             3,069.63CR                    02025050610211322    
+REP0047  00707918000000 VISA CHARGES                                        0.00                               6.71                                 6.71DB                    02025050610211322    
+REP0047  007079180000000TOTAL ISSUER                        3           3,418.53             219         213,651.93             222           210,233.40DB                    02025050610211322    
+REP0047  007079180000000OTHER TRANSACTIONS                                                                                                                                    02025050610211322    
+REP0047  007079180000000TOTAL INTERCHANGE                                   0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  007079180000000REIMBURSEMENT FEES                                                                                                                                    02025050610211322    
+REP0047  00707918000000  TOTAL                                              0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  00707918000000 VISA CHARGES                                        0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  007079180000000TOTAL OTHER                                         0.00                               0.00                                 0.00                      02025050610211322    
+REP0047  007079180000000TOTAL                               3           3,418.53             219         213,651.93             222           210,233.40DB                    02025050610211322    
+REP0047  007079180000000FINAL SETTLEMENT NET AMOUNT                                                                                           210,233.40DB                    02025050610211322    
+REP0047  00707918000000-                                                  *** END OF VSS-116 REPORT ***                                                                       02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-120                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771424 707918INTBII               INTERNATIONAL SETTLEMENT SERVICE                    PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                     INTERCHANGE VALUE REPORT                        REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  00707918000000-SETTLEMENT CURRENCY:  USD                                                                                                                             02025050610211322    
+REP0047  00707918000000 CLEARING CURRENCY:    USD                                                                                                                             02025050610211322    
+REP0047  00707918000000-                                         RATE               COUNT               CLEARING          INTERCHANGE          INTERCHANGE                    02025050610211322    
+REP0047  00707918000000                                         TABLE                                    AMOUNT              VALUE                VALUE                       02025050610211322    
+REP0047  00707918000000                                            ID                                                       CREDITS               DEBITS                      02025050610211322    
+REP0047  00707918000000-ISSUER TRANSACTIONS                                                                                                                                   02025050610211322    
+REP0047  00707918000000-  PURCHASE                                                                                                                                            02025050610211322    
+REP0047  00707918000000    ORIGINAL SALE                                              219           213,637.28DB                                213,637.28                    02025050610211322    
+REP0047  00707918000000                                                                                                                                                       02025050610211322    
+REP0047  00707918000000   TOTAL PURCHASE                                              219           213,637.28DB                                213,637.28                    02025050610211322    
+REP0047  00707918000000   NET   PURCHASE                                                                                                        213,637.28                    02025050610211322    
+REP0047  00707918000000-  MERCHANDISE CREDIT                                                                                                                                  02025050610211322    
+REP0047  00707918000000    ORIGINAL                                                     3               340.96CR               340.96                                         02025050610211322    
+REP0047  00707918000000                                                                                                                                                       02025050610211322    
+REP0047  00707918000000   TOTAL MERCHANDISE CREDIT                                      3               340.96CR               340.96                                         02025050610211322    
+REP0047  00707918000000   NET   MERCHANDISE CREDIT                                                                             340.96                                         02025050610211322    
+REP0047  00707918000000-TOTAL ISSUER INTERCHANGE                                      222           213,296.32DB               340.96           213,637.28                    02025050610211322    
+REP0047  00707918000000 NET   ISSUER INTERCHANGE                                                                                                213,296.32                    02025050610211322    
+REP0047  00707918000000-                                                  ***  END OF VSS-120 REPORT  ***                                                                     02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-130                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771424 707918INTBII              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                    REIMBURSEMENT FEES REPORT                        REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  007079180000000SETTLEMENT CURRENCY:  USD                                                                                                                             02025050610211322    
+REP0047  00707918000000                                                                                                REIMBURSEMENT         REIMBURSEMENT                    02025050610211322    
+REP0047  00707918000000                                                        COUNT              INTERCHANGE               FEE                   FEE                         02025050610211322    
+REP0047  00707918000000                                                                              AMOUNT               CREDITS                DEBITS                       02025050610211322    
+REP0047  00707918000000 ISSUER TRANSACTIONS                                                                                                                                   02025050610211322    
+REP0047  007079180000000   PURCHASE                                                                                                                                           02025050610211322    
+REP0047  00707918000000       ORIGINAL SALE                                                                                                                                   02025050610211322    
+REP0047  00707918000000          VISA INTERNATIONAL                                                                                                                           02025050610211322    
+REP0047  00707918000000             E.U. - U.S.A.                                                                                                                             02025050610211322    
+REP0047  00707918000000                COMCL-CORP                                  7                 554.76DB                  11.10                                          02025050610211322    
+REP0047  00707918000000                CORP ALT                                    4                  99.93DB                   2.00                                          02025050610211322    
+REP0047  00707918000000                CORP DGD                                    1                  15.71DB                   0.32                                          02025050610211322    
+REP0047  00707918000000             TOTAL E.U. - U.S.A.                                                                        13.42                                          02025050610211322    
+REP0047  007079180000000         VISA U.S.A.                                                                                                                                  02025050610211322    
+REP0047  00707918000000             U.S.A. - U.S.A.                                                                                                                           02025050610211322    
+REP0047  00707918000000                NON QUAL CORP CR                            3                 702.17DB                  21.01                                          02025050610211322    
+REP0047  00707918000000                US COMM FUEL L2                             2                 121.88DB                   2.88                                          02025050610211322    
+REP0047  00707918000000                US COMM PRD LT                              1               8,905.00DB                 164.12                                          02025050610211322    
+REP0047  00707918000000                US CORP LVL2                               19              15,900.79DB                 399.42                                          02025050610211322    
+REP0047  00707918000000                US CORP PROD 1                             57              15,037.84DB                 411.72                                          02025050610211322    
+REP0047  00707918000000                US CORP PROD 2                             14                 544.42DB                  15.01                                          02025050610211322    
+REP0047  00707918000000                US CORP PROD 3                             41              12,087.41DB                 233.76                                          02025050610211322    
+REP0047  00707918000000                US CORP TVL SVC                            47              13,445.52DB                 361.01                                          02025050610211322    
+REP0047  00707918000000                VISA PART PRGM                             23             146,221.85DB               1,455.22                                          02025050610211322    
+REP0047  00707918000000             TOTAL U.S.A. - U.S.A.                                                                   3,064.15                                          02025050610211322    
+REP0047  007079180000000      TOTAL ORIGINAL SALE                                                                           3,077.57                                          02025050610211322    
+REP0047  007079180000000   TOTAL PURCHASE                                        219             213,637.28DB               3,077.57                                          02025050610211322    
+REP0047  00707918000000    NET   PURCHASE                                                                                   3,077.57                                          02025050610211322    
+REP0047  007079180000000   MERCHANDISE CREDIT                                                                                                                                 02025050610211322    
+REP0047  00707918000000       ORIGINAL                                                                                                                                        02025050610211322    
+REP0047  00707918000000          VISA U.S.A.                                                                                                                                  02025050610211322    
+REP0047  00707918000000             U.S.A. - U.S.A.                                                                                                                           02025050610211322    
+REP0047  00707918000000                US CRDT VCR-COMM                            1                  12.00CR                                         0.28                    02025050610211322    
+REP0047  00707918000000                US CRDT VCR-PT                              2                 328.96CR                                         7.66                    02025050610211322    
+REP0047  00707918000000             TOTAL U.S.A. - U.S.A.                                                                                             7.94                    02025050610211322    
+REP0047  007079180000000   TOTAL MERCHANDISE CREDIT                                3                 340.96CR                                         7.94                    02025050610211322    
+REP0047  00707918000000    NET   MERCHANDISE CREDIT                                                                                                   7.94                    02025050610211322    
+REP0047  007079180000000TOTAL ISSUER REIMB FEES                                                                             3,077.57                  7.94                    02025050610211322    
+REP0047  00707918000000 NET   ISSUER REIMB FEES                                                                             3,069.63                                          02025050610211322    
+REP0047  00707918000000-                                                   *** END OF VSS-130 REPORT ***                                                                      02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-135                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771424 707918INTBII              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                 MTD REIMBURSEMENT FEES REPORT                       REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                  FOR 01MAY25 THROUGH 06MAY25                                                                02025050610211322    
+REP0047  007079180000000SETTLEMENT CURRENCY:  USD                                                                                                                             02025050610211322    
+REP0047  007079180000000                DAILY              DAILY                 DAILY                MTD                MTD                    MTD                           02025050610211322    
+REP0047  00707918000000                 COUNT           INTERCHANGE          REIMBURSEMENT           COUNT           INTERCHANGE           REIMBURSEMENT                      02025050610211322    
+REP0047  00707918000000                                    AMOUNT                 FEES                                  AMOUNT                  FEES                          02025050610211322    
+REP0047  007079180000000ISSUER TRANSACTIONS                                                                                                                                   02025050610211322    
+REP0047  007079180000000VISA INTERNATIONAL                                                                                                                                    02025050610211322    
+REP0047  00707918000000  COMCL-CORP                                                                                                                                           02025050610211322    
+REP0047  00707918000000   DEBITS            7                554.76DB                11.10CR            16                755.77DB                 15.13CR                    02025050610211322    
+REP0047  00707918000000   CREDITS           0                  0.00                   0.00               0                  0.00                    0.00                      02025050610211322    
+REP0047  00707918000000   NET               7                554.76DB                11.10CR            16                755.77DB                 15.13CR                    02025050610211322    
+REP0047  00707918000000  CORP ALT                                                                                                                                             02025050610211322    
+REP0047  00707918000000   DEBITS            4                 99.93DB                 2.00CR            18              6,154.19DB                123.09CR                    02025050610211322    
+REP0047  00707918000000   CREDITS           0                  0.00                   0.00               0                  0.00                    0.00                      02025050610211322    
+REP0047  00707918000000   NET               4                 99.93DB                 2.00CR            18              6,154.19DB                123.09CR                    02025050610211322    
+REP0047  00707918000000  CORP DGD                                                                                                                                             02025050610211322    
+REP0047  00707918000000   DEBITS            1                 15.71DB                 0.32CR             3                 39.05DB                  0.80CR                    02025050610211322    
+REP0047  00707918000000   CREDITS           0                  0.00                   0.00               0                  0.00                    0.00                      02025050610211322    
+REP0047  00707918000000   NET               1                 15.71DB                 0.32CR             3                 39.05DB                  0.80CR                    02025050610211322    
+REP0047  007079180000000TOTAL VISA INTERNATIONAL                                                                                                                              02025050610211322    
+REP0047  00707918000000                    12                670.40DB                13.42CR            37              6,949.01DB                139.02CR                    02025050610211322    
+REP0047  007079180000000VISA U.S.A.                                                                                                                                           02025050610211322    
+REP0047  00707918000000  NON QL CRP DATA                                                                                                                                      02025050610211322    
+REP0047  00707918000000   DEBITS            0                  0.00                   0.00               2              3,031.91DB                 89.64CR                    02025050610211322    
+REP0047  00707918000000   CREDITS           0                  0.00                   0.00               0                  0.00                    0.00                      02025050610211322    
+REP0047  00707918000000   NET               0                  0.00                   0.00               2              3,031.91DB                 89.64CR                    02025050610211322    
+REP0047  00707918000000  NON QUAL CORP CR                                                                                                                                     02025050610211322    
+REP0047  00707918000000   DEBITS            3                702.17DB                21.01CR            36              6,295.57DB                189.31CR                    02025050610211322    
+REP0047  00707918000000   CREDITS           0                  0.00                   0.00               0                  0.00                    0.00                      02025050610211322    
+REP0047  00707918000000   NET               3                702.17DB                21.01CR            36              6,295.57DB                189.31CR                    02025050610211322    
+REP0047  00707918000000  US COM FUEL PRD3                                                                                                                                     02025050610211322    
+REP0047  00707918000000   DEBITS            0                  0.00                   0.00              22                444.29DB                 10.65CR                    02025050610211322    
+REP0047  00707918000000   CREDITS           0                  0.00                   0.00               0                  0.00                    0.00                      02025050610211322    
+REP0047  00707918000000   NET               0                  0.00                   0.00              22                444.29DB                 10.65CR                    02025050610211322    
+REP0047  00707918000000  US COMM FUEL L2                                                                                                                                      02025050610211322    
+REP0047  00707918000000   DEBITS            2                121.88DB                 2.88CR            18              1,156.02DB                 27.22CR                    02025050610211322    
+REP0047  00707918000000   CREDITS           0                  0.00                   0.00               0                  0.00                    0.00                      02025050610211322    
+REP0047  00707918000000   NET               2                121.88DB                 2.88CR            18              1,156.02DB                 27.22CR                    02025050610211322    
+REP0047  00707918000000  US COMM PRD LT                                                                                                                                       02025050610211322    
+REP0047  00707918000000   DEBITS            1              8,905.00DB               164.12CR             3            150,891.58DB              2,292.92CR                    02025050610211322    
+REP0047  00707918000000   CREDITS           0                  0.00                   0.00               0                  0.00                    0.00                      02025050610211322    
+REP0047  00707918000000   NET               1              8,905.00DB               164.12CR             3            150,891.58DB              2,292.92CR                    02025050610211322    
+REP0047  00707918000000  US CORP LVL2                                                                                                                                         02025050610211322    
+REP0047  00707918000000   DEBITS           19             15,900.79DB               399.42CR           143             46,998.42DB              1,189.27CR                    02025050610211322    
+REP0047  00707918000000   CREDITS           0                  0.00                   0.00               0                  0.00                    0.00                      02025050610211322    
+REP0047  00707918000000   NET              19             15,900.79DB               399.42CR           143             46,998.42DB              1,189.27CR                    02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-135                                         VISANET SETTLEMENT SERVICE                        PAGE:              2                    02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771424 707918INTBII              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                 MTD REIMBURSEMENT FEES REPORT                       REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                  FOR 01MAY25 THROUGH 06MAY25                                                                02025050610211322    
+REP0047  007079180000000SETTLEMENT CURRENCY:  USD                                                                                                                             02025050610211322    
+REP0047  007079180000000                DAILY              DAILY                 DAILY                MTD                MTD                    MTD                           02025050610211322    
+REP0047  00707918000000                 COUNT           INTERCHANGE          REIMBURSEMENT           COUNT           INTERCHANGE           REIMBURSEMENT                      02025050610211322    
+REP0047  00707918000000                                    AMOUNT                 FEES                                  AMOUNT                  FEES                          02025050610211322    
+REP0047  007079180000000ISSUER TRANSACTIONS                                                                                                                                   02025050610211322    
+REP0047  007079180000000VISA U.S.A.                                                                                                                                           02025050610211322    
+REP0047  00707918000000  US CORP PROD 1                                                                                                                                       02025050610211322    
+REP0047  00707918000000   DEBITS           57             15,037.84DB               411.72CR           372            133,636.32DB              3,645.38CR                    02025050610211322    
+REP0047  00707918000000   CREDITS           0                  0.00                   0.00               0                  0.00                    0.00                      02025050610211322    
+REP0047  00707918000000   NET              57             15,037.84DB               411.72CR           372            133,636.32DB              3,645.38CR                    02025050610211322    
+REP0047  00707918000000  US CORP PROD 2                                                                                                                                       02025050610211322    
+REP0047  00707918000000   DEBITS           14                544.42DB                15.01CR            87              6,348.32DB                167.42CR                    02025050610211322    
+REP0047  00707918000000   CREDITS           0                  0.00                   0.00               0                  0.00                    0.00                      02025050610211322    
+REP0047  00707918000000   NET              14                544.42DB                15.01CR            87              6,348.32DB                167.42CR                    02025050610211322    
+REP0047  00707918000000  US CORP PROD 3                                                                                                                                       02025050610211322    
+REP0047  00707918000000   DEBITS           41             12,087.41DB               233.76CR           218             90,692.67DB              1,744.97CR                    02025050610211322    
+REP0047  00707918000000   CREDITS           0                  0.00                   0.00               0                  0.00                    0.00                      02025050610211322    
+REP0047  00707918000000   NET              41             12,087.41DB               233.76CR           218             90,692.67DB              1,744.97CR                    02025050610211322    
+REP0047  00707918000000  US CORP TVL SVC                                                                                                                                      02025050610211322    
+REP0047  00707918000000   DEBITS           47             13,445.52DB               361.01CR           338             59,594.15DB              1,613.05CR                    02025050610211322    
+REP0047  00707918000000   CREDITS           0                  0.00                   0.00               0                  0.00                    0.00                      02025050610211322    
+REP0047  00707918000000   NET              47             13,445.52DB               361.01CR           338             59,594.15DB              1,613.05CR                    02025050610211322    
+REP0047  00707918000000  US CRDT VCR-COMM                                                                                                                                     02025050610211322    
+REP0047  00707918000000   DEBITS            0                  0.00                   0.00               0                  0.00                    0.00                      02025050610211322    
+REP0047  00707918000000   CREDITS           1                 12.00CR                 0.28DB             8              2,994.94CR                 70.37DB                    02025050610211322    
+REP0047  00707918000000   NET               1                 12.00CR                 0.28DB             8              2,994.94CR                 70.37DB                    02025050610211322    
+REP0047  00707918000000  US CRDT VCR-PT                                                                                                                                       02025050610211322    
+REP0047  00707918000000   DEBITS            0                  0.00                   0.00               0                  0.00                    0.00                      02025050610211322    
+REP0047  00707918000000   CREDITS           2                328.96CR                 7.66DB             4                992.41CR                 23.12DB                    02025050610211322    
+REP0047  00707918000000   NET               2                328.96CR                 7.66DB             4                992.41CR                 23.12DB                    02025050610211322    
+REP0047  00707918000000  VISA PART PRGM                                                                                                                                       02025050610211322    
+REP0047  00707918000000   DEBITS           23            146,221.85DB             1,455.22CR           187            178,829.11DB              1,845.64CR                    02025050610211322    
+REP0047  00707918000000   CREDITS           0                  0.00                   0.00               4                669.72CR                 11.57DB                    02025050610211322    
+REP0047  00707918000000   NET              23            146,221.85DB             1,455.22CR           191            178,159.39DB              1,834.07CR                    02025050610211322    
+REP0047  007079180000000TOTAL VISA U.S.A.                                                                                                                                     02025050610211322    
+REP0047  00707918000000                   210            212,625.92DB             3,056.21CR         1,442            673,261.29DB             12,710.41CR                    02025050610211322    
+REP0047  007079180000000TOTAL ISSUER REIMBURSEMENT FEES                                                                                                                       02025050610211322    
+REP0047  00707918000000                   222            213,296.32DB             3,069.63CR         1,479            680,210.30DB             12,849.43CR                    02025050610211322    
+REP0047  00707918000000-                                                   *** END OF VSS-135 REPORT ***                                                                      02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-140                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771424 707918INTBII              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                      VISA CHARGES REPORT                            REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  007079180000000SETTLEMENT CURRENCY:  USD                                                                                                                             02025050610211322    
+REP0047  00707918000000                                                             COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES                    02025050610211322    
+REP0047  00707918000000                                                                                AMOUNT              CREDITS               DEBITS                       02025050610211322    
+REP0047  007079180000000ISSUER TRANSACTIONS                                                                                                                                   02025050610211322    
+REP0047  007079180000000  INTERNATIONAL SERVICE ASSESSMENT                                                                                                                    02025050610211322    
+REP0047  007079180000000    PURCHASE                                                                                                                                          02025050610211322    
+REP0047  00707918000000       ORIGINAL SALE                                                                                                                                   02025050610211322    
+REP0047  00707918000000         VISA INTERNATIONAL                                                                                                                            02025050610211322    
+REP0047  00707918000000            E.U. - U.S.A.                                       11               274.28DB                                      2.75                    02025050610211322    
+REP0047  007079180000000      TOTAL PURCHASE                                           11               274.28DB                                      2.75                    02025050610211322    
+REP0047  00707918000000       NET   PURCHASE                                                                                                          2.75                    02025050610211322    
+REP0047  007079180000000   TOTAL INTERNATIONAL SERVICE ASSESSMENT                      11               274.28DB                                      2.75                    02025050610211322    
+REP0047  00707918000000    NET   INTERNATIONAL SERVICE ASSESSMENT                                                                                     2.75                    02025050610211322    
+REP0047  007079180000000  ISSUER ISA CHARGE-SINGLE CURRENCY                                                                                                                   02025050610211322    
+REP0047  00707918000000     PURCHASE                                                                                                                                          02025050610211322    
+REP0047  00707918000000       ORIGINAL SALE                                                                                                                                   02025050610211322    
+REP0047  00707918000000         VISA INTERNATIONAL                                                                                                                            02025050610211322    
+REP0047  00707918000000            E.U. - U.S.A.                                        1               396.12DB                                      3.96                    02025050610211322    
+REP0047  007079180000000      TOTAL PURCHASE                                            1               396.12DB                                      3.96                    02025050610211322    
+REP0047  00707918000000       NET   PURCHASE                                                                                                          3.96                    02025050610211322    
+REP0047  007079180000000   TOTAL ISSUER ISA CHARGE-SINGLE CURRENCY                      1               396.12DB                                      3.96                    02025050610211322    
+REP0047  00707918000000    NET   ISSUER ISA CHARGE-SINGLE CURRENCY                                                                                    3.96                    02025050610211322    
+REP0047  007079180000000TOTAL ISSUER CHARGES                                                                                                          6.71                    02025050610211322    
+REP0047  00707918000000 NET   ISSUER CHARGES                                                                                                          6.71                    02025050610211322    
+REP0047  00707918000000-                                                   *** END OF VSS-140 REPORT ***                                                                      02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-215                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771424 707918INTBII              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX            INTERNATIONAL SERVICE ASSESSMENT REPORT                  REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  007079180000000SETTLEMENT CURRENCY:  USD                                                                                                                             02025050610211322    
+REP0047  00707918000000 CLEARING CURRENCY:  USD                                                                                                                               02025050610211322    
+REP0047  007079180000000                            ***********SETTLEMENT CURRENCY*********** *********************CLEARING CURRENCY**********************                    02025050610211322    
+REP0047  00707918000000                                      INTERCHANGE        INTL SERVICE           INTERCHANGE        INTL SERVICE         OPT ISA                        02025050610211322    
+REP0047  00707918000000                                        AMOUNT            ASSESSMENT              AMOUNT            ASSESSMENT            FEE                          02025050610211322    
+REP0047  007079180000000ISSUER TRANSACTIONS                                                                                                                                   02025050610211322    
+REP0047  007079180000000PURCHASE                                                                                                                                              02025050610211322    
+REP0047  00707918000000  ORIGINAL SALE                                                                                                                                        02025050610211322    
+REP0047  00707918000000   VISA INTERNATIONAL                      274.28DB             2.75DB               274.28DB             2.75DB             0.00                      02025050610211322    
+REP0047  007079180000000TOTAL PURCHASE                                                                                                                                        02025050610211322    
+REP0047  00707918000000                                           274.28DB             2.75DB               274.28DB             2.75DB             0.00                      02025050610211322    
+REP0047  00707918000000-TOTAL INTL SERVICE ASSESSMENT                                                                                                                         02025050610211322    
+REP0047  00707918000000                                           274.28DB             2.75DB               274.28DB             2.75DB             0.00                      02025050610211322    
+REP0047  00707918000000-                                                   *** END OF VSS-215 REPORT ***                                                                      02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-640                                         VISANET SETTLEMENT SERVICE                        PAGE:             1                     02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771424 707918INTBII              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:  06MAY25                     02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                   PENDING VISA CHARGES REPORT                       REPORT DATE:06MAY25                     02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  007079180000000SETTLEMENT CURRENCY:  USD       PROCESSING                 COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES                     02025050610211322    
+REP0047  00707918000000                                    DATE                                       AMOUNT              CREDITS               DEBITS                        02025050610211322    
+REP0047  00707918000000-                                              *** NO DATA FOR THIS REPORT ***                                                                         02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-640                                         VISANET SETTLEMENT SERVICE                        PAGE:             1                     02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771425 707918INTVISA             INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:  06MAY25                     02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                   PENDING VISA CHARGES REPORT                       REPORT DATE:06MAY25                     02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  007079180000000SETTLEMENT CURRENCY:  USD       PROCESSING                 COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES                     02025050610211322    
+REP0047  00707918000000                                    DATE                                       AMOUNT              CREDITS               DEBITS                        02025050610211322    
+REP0047  00707918000000-                                              *** NO DATA FOR THIS REPORT ***                                                                         02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-640                                         VISANET SETTLEMENT SERVICE                        PAGE:             1                     02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771426 707918INTVISAX            INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:  06MAY25                     02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                   PENDING VISA CHARGES REPORT                       REPORT DATE:06MAY25                     02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  007079180000000SETTLEMENT CURRENCY:  USD       PROCESSING                 COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES                     02025050610211322    
+REP0047  00707918000000                                    DATE                                       AMOUNT              CREDITS               DEBITS                        02025050610211322    
+REP0047  00707918000000-                                              *** NO DATA FOR THIS REPORT ***                                                                         02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-640                                         VISANET SETTLEMENT SERVICE                        PAGE:             1                     02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771427 707918INTPLS              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:  06MAY25                     02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                   PENDING VISA CHARGES REPORT                       REPORT DATE:06MAY25                     02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  007079180000000SETTLEMENT CURRENCY:  USD       PROCESSING                 COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES                     02025050610211322    
+REP0047  00707918000000                                    DATE                                       AMOUNT              CREDITS               DEBITS                        02025050610211322    
+REP0047  00707918000000-                                              *** NO DATA FOR THIS REPORT ***                                                                         02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-640                                         VISANET SETTLEMENT SERVICE                        PAGE:             1                     02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771428 707918INTPLS              INTERNATIONAL SETTLEMENT SERVICE                     PROC DATE:  06MAY25                     02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                   PENDING VISA CHARGES REPORT                       REPORT DATE:06MAY25                     02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  007079180000000SETTLEMENT CURRENCY:  USD       PROCESSING                 COUNT            INTERCHANGE         VISA CHARGES         VISA CHARGES                     02025050610211322    
+REP0047  00707918000000                                    DATE                                       AMOUNT              CREDITS               DEBITS                        02025050610211322    
+REP0047  00707918000000-                                              *** NO DATA FOR THIS REPORT ***                                                                         02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-950                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771424 707918INTBII               SERVICE INTERNATIONAL SETTLEMENT                    PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                         NO DATA REPORT                              REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  007079180000000REPORT                                                                                                                                                02025050610211322    
+REP0047  00707918000000 VSS-210                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-230                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-300                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000-                                                  *** END OF VSS-950 REPORT ***                                                                       02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-950                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771425 707918INTVISA              SERVICE INTERNATIONAL SETTLEMENT                    PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                         NO DATA REPORT                              REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  007079180000000REPORT                                                                                                                                                02025050610211322    
+REP0047  00707918000000 VSS-110                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-115                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-116                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-120                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-130                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-135                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-140                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-210                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-215                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-230                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-300                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000-                                                  *** END OF VSS-950 REPORT ***                                                                       02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-950                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771426 707918INTVISAX             SERVICE INTERNATIONAL SETTLEMENT                    PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                         NO DATA REPORT                              REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  007079180000000REPORT                                                                                                                                                02025050610211322    
+REP0047  00707918000000 VSS-110                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-115                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-116                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-120                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-130                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-135                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-140                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-210                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-215                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-230                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-300                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-900                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-900-S                                              NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000-                                                  *** END OF VSS-950 REPORT ***                                                                       02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-950                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771427 707918INTPLS               SERVICE INTERNATIONAL SETTLEMENT                    PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                         NO DATA REPORT                              REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  007079180000000REPORT                                                                                                                                                02025050610211322    
+REP0047  00707918000000 VSS-110                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-115                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-116                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-120                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-130                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-135                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-140                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-210                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-215                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-230                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-300                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-900                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-900-S                                              NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000-                                                  *** END OF VSS-950 REPORT ***                                                                       02025050610211322    
+REP0047  007079180000001REPORT ID:  VSS-950                                         VISANET SETTLEMENT SERVICE                        PAGE:              1                    02025050610211322    
+REP0047  00707918000000 REPORTING FOR:      1000771428 707918INTPLS               SERVICE INTERNATIONAL SETTLEMENT                    PROC DATE:   06MAY25                    02025050610211322    
+REP0047  00707918000000 ROLLUP TO:          1000771423 SUNWEST PX                         NO DATA REPORT                              REPORT DATE: 06MAY25                    02025050610211322    
+REP0047  00707918000000 FUNDS XFER ENTITY:  1000771423 SUNWEST PX                                                                                                             02025050610211322    
+REP0047  007079180000000REPORT                                                                                                                                                02025050610211322    
+REP0047  00707918000000 VSS-110                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-115                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-116                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-120                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-130                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-135                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-140                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-210                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-215                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-230                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-300                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-900                                                NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000 VSS-900-S                                              NO DATA FOR THIS REPORT                                                                        02025050610211322    
+REP0047  00707918000000-                                                  *** END OF VSS-950 REPORT ***                                                                       02025050610211322    
